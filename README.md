@@ -1,4 +1,8 @@
 # Buttoor(door with button) demonstration program
 
-## 言語
+## 開発環境
+# 言語
 Ruby
+
+# ライブラリ
+DXRuby
